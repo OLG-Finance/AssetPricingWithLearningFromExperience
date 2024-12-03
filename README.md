@@ -1,6 +1,6 @@
 # Matlab Code
 
-This file replicates the results from "Asset Prices and Portfolio Choice with Learning from Experience" by Ehling, Graniero, and Heyerdahl-Larsen (2017).  
+This file replicates the results from "Asset Prices and Portfolio Choice with Learning from Experience" by Ehling, Graniero, and Heyerdahl-Larsen (2017). The code can also be downloaded at ReStud's website. 
 
 For any questions, please contact: [alessandro.graniero@bi.no](mailto:alessandro.graniero@bi.no).  
 
