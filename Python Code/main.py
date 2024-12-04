@@ -1,7 +1,7 @@
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import numpy as np
-from src.param import rho, nu, mu_Y, sigma_Y, sigma_S, beta, T_hat, dt, N_pre, V_hat, Nt, Nc, tau
+from src.param import nu, mu_Y, sigma_Y, sigma_S, beta, T_hat, dt, N_pre, V_hat, Nt, Nc, tau
 from src.functions import build_cohorts, simulate_cohorts
 
 Mpath = 100
